@@ -25,7 +25,7 @@
     scrollbar-color: #277BC0;
 }
 
-/* #side_bar::-webkit-scrollbar {
+#side_bar::-webkit-scrollbar {
     width: 10px;
 }
 
@@ -43,7 +43,7 @@
     -webkit-transition: background-color 2s;
     transition: background-color 2s;
     background-color: #FFCB42;
-} */
+}
 
 .history_title {
     height: auto;
