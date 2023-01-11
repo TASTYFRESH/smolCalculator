@@ -1,0 +1,51 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.lightBlue {
+    color: #4DA0E4;
+}
+
+.blue {
+    color: #277BC0;
+}
+
+.lightYellow {
+    color: #FFF4CF;
+}
+
+.yellow {
+    color: #FFCB42;
+}
+
+.darkYellow {
+    color: #FFB200;
+}
+
+.dullYellow {
+    color: #F2A000;
+}
+
+.lightBlue_b {
+    background-color: #4DA0E4;
+}
+
+.blue_b {
+    background-color: #277BC0;
+}
+
+.lightYellow_b {
+    background-color: #FFF4CF;
+}
+
+.yellow_b {
+    background-color: #FFCB42;
+}
+
+.darkYellow_b {
+    background-color: #FFB200;
+}
+
+.dullYellow_b {
+    background-color: #F2A000;
+}
